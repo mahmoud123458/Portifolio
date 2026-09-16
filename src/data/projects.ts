@@ -19,7 +19,7 @@ export const projects: Project[] = [
     technologies: ['React.js', 'Vite', 'JavaScript', 'Responsive Design', 'Vercel'],
     image: new URL('../assets/Zaptro.jpg', import.meta.url).href,
     github: 'https://github.com/mahmoud123458/Zaptro',
-    liveDemo: 'https://zaptro-chi.vercel.app/',
+    liveDemo: 'https://zaptro-zeta.vercel.app/',
     category: ['React', 'E-Commerce']
   },
   {
@@ -32,16 +32,7 @@ export const projects: Project[] = [
     liveDemo: 'https://cara-e-commerce-mu.vercel.app/',
     category: ['E-Commerce', 'JavaScript']
   },
-  {
-    id: 3,
-    title: 'Multiple Web Projects',
-    description: 'A collection of various web projects including Bakery, Devfolio, Fokir, Mealify, Quote Generator, and Signup/Login systems. All built with HTML, CSS, SCSS, and JavaScript with responsive design.',
-    technologies: ['HTML5', 'CSS3', 'SCSS', 'JavaScript', 'Responsive Design'],
-    image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&h=400&fit=crop',
-    github: 'https://github.com/mahmoud123458/HTML-CSS-JS',
-    liveDemo: '#',
-    category: ['HTML/CSS', 'JavaScript']
-  },
+  
   {
     id: 4,
     title: 'Responsive Coffee Website',
@@ -61,6 +52,16 @@ export const projects: Project[] = [
     github: 'https://github.com/mahmoud123458/CRUD-System',
     liveDemo: 'https://crud-system-tau-two.vercel.app/',
     category: ['JavaScript', 'UI']
+  },
+  {
+    id: 3,
+    title: 'Multiple Web Projects',
+    description: 'A collection of various web projects including Bakery, Devfolio, Fokir, Mealify, Quote Generator, and Signup/Login systems. All built with HTML, CSS, SCSS, and JavaScript with responsive design.',
+    technologies: ['HTML5', 'CSS3', 'SCSS', 'JavaScript', 'Responsive Design'],
+    image: 'https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&h=400&fit=crop',
+    github: 'https://github.com/mahmoud123458/HTML-CSS-JS',
+    liveDemo: '#',
+    category: ['HTML/CSS', 'JavaScript']
   },
  
 ];
