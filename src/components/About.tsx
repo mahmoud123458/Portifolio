@@ -14,7 +14,7 @@ export default function About() {
             </p>
 
             <p className="text-lg text-text-secondary leading-relaxed">
-              My development journey has given me experience with modern frontend technologies such as React.js, TypeScript, Tailwind CSS, Redux, Material UI, and Bootstrap. I'm continuously learning and improving my skills by building projects and exploring new technologies.
+              My development journey has given me experience with modern frontend technologies such as React.js, Next.js, TypeScript, Tailwind CSS, Redux, Material UI, and Bootstrap. I'm continuously learning and improving my skills by building projects and exploring new technologies.
             </p>
 
             <p className="text-lg text-text-secondary leading-relaxed">
@@ -66,7 +66,7 @@ export default function About() {
                   <div className="w-2 h-2 rounded-full bg-text-primary mt-2 flex-shrink-0"></div>
                   <div>
                     <p className="font-semibold text-text-primary">Modern Frontend</p>
-                    <p className="text-sm text-text-secondary">React → JavaScript → TypeScript</p>
+                    <p className="text-sm text-text-secondary">React → TypeScript → Next.js</p>
                   </div>
                 </div>
                 <div className="flex gap-3">

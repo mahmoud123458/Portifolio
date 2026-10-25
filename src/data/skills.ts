@@ -10,7 +10,7 @@ export const skills: Skill[] = [
   },
   {
     category: 'Frameworks & Libraries',
-    items: ['React.js', 'Redux']
+    items: ['React.js', 'Next.js', 'Redux']
   },
   {
     category: 'CSS & UI',

@@ -47,6 +47,25 @@ export const projects: Project[] = [
     category: ["React", "E-Commerce"],
   },
   {
+    id: 7,
+    title: "Weather App",
+    description:
+      "A modern weather app built with Next.js and Tailwind CSS, powered by the Meteoblue API. Features city search with autocomplete and fuzzy matching for misspelled names, a 7-day forecast, and an automatic night mode with a starry black background when it is night in the searched city.",
+    technologies: [
+      "Next.js",
+      "React.js",
+      "Tailwind CSS",
+      "shadcn/ui",
+      "Lucide React",
+      "Meteoblue API",
+      "Vercel",
+    ],
+    image: new URL("../assets/weather.jpg", import.meta.url).href,
+    github: "https://github.com/mahmoud123458/weather",
+    liveDemo: "https://weather-alpha-blush-20.vercel.app",
+    category: ["Next", "API"],
+  },
+  {
     id: 2,
     title: "Cara E-Commerce",
     description:
@@ -110,6 +129,6 @@ export const projects: Project[] = [
       "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?w=500&h=400&fit=crop",
     github: "https://github.com/mahmoud123458/HTML-CSS-JS",
     liveDemo: "#",
-    category: ["HTML/CSS", "JavaScript"],
+    category: ["UI/UX", "JavaScript"],
   },
 ];
