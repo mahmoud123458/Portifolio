@@ -27,7 +27,7 @@ export const projects: Project[] = [
     image: new URL("../assets/hero.png", import.meta.url).href,
     github: "https://github.com/mahmoud123458/SHOP.CO",
     liveDemo: "https://shop-co-y9c6.vercel.app/",
-    category: ["Next", "E-Commerce"],
+    category: ["Next.js", "E-Commerce"],
   },
   {
     id: 1,
@@ -63,7 +63,7 @@ export const projects: Project[] = [
     image: new URL("../assets/weather.jpg", import.meta.url).href,
     github: "https://github.com/mahmoud123458/weather",
     liveDemo: "https://weather-alpha-blush-20.vercel.app",
-    category: ["Next", "API"],
+    category: ["Next.js", "API"],
   },
   {
     id: 2,
