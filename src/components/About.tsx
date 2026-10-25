@@ -24,7 +24,7 @@ export default function About() {
             {/* Quick Stats */}
             <div className="grid grid-cols-3 gap-4 pt-6">
               <div className="bg-bg-card border border-border-color rounded-lg p-4 text-center">
-                <div className="text-2xl font-bold text-text-primary mb-1">5+</div>
+                <div className="text-2xl font-bold text-text-primary mb-1">7+</div>
                 <div className="text-sm text-text-muted">Projects Completed</div>
               </div>
               <div className="bg-bg-card border border-border-color rounded-lg p-4 text-center">
